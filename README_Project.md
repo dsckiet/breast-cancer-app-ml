@@ -14,6 +14,9 @@
 	<dt><b>Benign</b></dt><dd>'Benign' cancer is the cancer which doesn't spread and are non cancerous. In most cases, a doctor diagnosing a tumor as benign will most likely be left alone.  Benign tumors are not generally aggressive around the surrounding tissue and in some cases, may continue to grow. If the tumor continues to grow and cause discomfort by pressing against surrounding organs and causing pain, the tumor would be removed.</dd>
 	<dt><b>Malignant</b></dt><dd>'Malignant' cancer cells spread across the body making it very dangerous. Malignant tumors are aggressive and cancerous because damage the surrounding tissue and may be removed depending on the cancerous and aggressive on the severity or aggressiveness of the tumor.</dd></dl>
 - [ ]  Helps in visualization of the dataset using Maps and graphs and provide a basic idea of the dataset.
+	Eg: Heatmap<br>
+	![PLOT3](https://user-images.githubusercontent.com/76547274/139423128-89d21ed4-75f1-4c4b-823a-0b8f209406d5.png)
+
 
 <br>
 
