@@ -2,6 +2,7 @@
 	<img width="300" src="https://drive.google.com/uc?export=view&id=1Q-jMna73t3OcGULw_TAi2M786kinOZNZ" />
 	<h2 align="left"> BREAST CANCER PREDICTION MODEL </h2>
 	<h4 align="left"> This model is being trained to make predictions about cancer the patient is most likely suffering. This can be used both by medical practitioner and the patient provided data is provided from a proper medical report. The data project predicts whether the patient actually has breast cancer or not from the data provided by the User. <h4>
+	
 </p>
 
 ---
@@ -19,7 +20,7 @@
 
 
 <br>
-
+<h3>Link for Kaggle Database:</h3> You may refer this link, this will also provide you with DataSet.<a href="https://www.kaggle.com/buddhiniw/breast-cancer-prediction/data"> 'breast-cancer-prediction' </a>(You may have to clean dataset to get it in ready to use state as few records contain 0s which may effect the prediction)<br>
 
 ## Instructions to run
 
